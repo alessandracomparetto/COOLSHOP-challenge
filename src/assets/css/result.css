@@ -1,0 +1,11 @@
+/* style definition for result button */
+.result-button {
+    background-color: #D264B6 !important;
+    border-color: #D264B6;
+}
+
+.result-button:disabled {
+    background-color: #D264B6 !important;
+    border-color: #D264B6 !important;
+    opacity: 100% !important;
+}
